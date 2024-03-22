@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81a296a5-9e38-41c0-815d-0640e33492ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JiTKB8RtAZ3RntArNTRHgYksbI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.33808553" />
+  </component>
+  <component name="RunManager" selected="Python.cnn_tf">
+    <configuration name="cnn_tf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnn_tf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cnn_tf" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\LZY\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81a296a5-9e38-41c0-815d-0640e33492ba" name="Default Changelist" comment="" />
+      <created>1672559837839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672559837839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1672567798350">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="548" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.1027@0.0.1707.1027" timestamp="1672567798350" />
+    <state x="921" y="267" key="FileChooserDialogImpl" timestamp="1672565958523">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="921" y="267" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1672565958523" />
+    <state width="1685" height="342" key="GridCell.Tab.0.bottom" timestamp="1673006699861">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="342" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1673006699861" />
+    <state width="1685" height="342" key="GridCell.Tab.0.center" timestamp="1673006699861">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="342" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1673006699861" />
+    <state width="1685" height="342" key="GridCell.Tab.0.left" timestamp="1673006699861">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="342" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1673006699861" />
+    <state width="1685" height="342" key="GridCell.Tab.0.right" timestamp="1673006699861">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="342" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1673006699861" />
+    <state width="1685" height="342" key="GridCell.Tab.1.bottom" timestamp="1673006699861">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="342" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1673006699861" />
+    <state width="1685" height="342" key="GridCell.Tab.1.center" timestamp="1673006699861">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="342" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1673006699861" />
+    <state width="1685" height="342" key="GridCell.Tab.1.left" timestamp="1673006699861">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="342" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1673006699861" />
+    <state width="1685" height="342" key="GridCell.Tab.1.right" timestamp="1673006699861">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1685" height="342" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1673006699861" />
+    <state x="394" y="103" key="SettingsEditor" timestamp="1672694855247">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="394" y="103" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1672694855247" />
+    <state x="538" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1673044781940">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="538" y="338" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1673044781940" />
+    <state x="646" y="173" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1672698819855">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="646" y="173" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1707.1027@0.0.1707.1027" timestamp="1672698819855" />
+  </component>
+</project>
